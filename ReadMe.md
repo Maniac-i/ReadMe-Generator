@@ -12,24 +12,30 @@
  - [Tests](Tests)
  - [Questions](Questions)
 ---
+
 ## Description
 This project gathers information from the user and automates a RaadMe. The ReadMe will have a Table of Contents, description, installation, usage, license, contribution, tests and questions sections.
 
 ---
 ## Installation
 Clone the repository and run *node.js index.js*
+
 ---
 ## Usage
 Everyone can use.
+
 ---
 ## License
 This application is covered under the Public Domain license.
+
 ---
 ## Contributing
 You cant contribute.
+
 ---
 ## Tests
 idk
+
 ---
 ## Questions 
 

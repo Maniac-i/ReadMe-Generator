@@ -13,25 +13,31 @@ function generateMarkdown(data) {
  - [Contributing](Contributing)
  - [Tests](Tests)
  - [Questions](Questions)
+
 ---
 ## Description
-${data.description}
+- ${data.description}
 
 ---
 ## Installation
-${data.install}
+- ${data.install}
+
 ---
 ## Usage
-${data.usageInfo}
+- ${data.usageInfo}
+
 ---
 ## License
-This application is covered under the ${data.license} license.
+- This application is covered under the ${data.license} license.
+
 ---
 ## Contributing
-${data.contribution}
+- ${data.contribution}
+
 ---
 ## Tests
-${data.test}
+- ${data.test}
+
 ---
 ## Questions 
 
