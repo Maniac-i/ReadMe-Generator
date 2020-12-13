@@ -41,9 +41,6 @@ ${data.test}
 
 For any additional questions you can contact me at *${data.email}*.
 
-
-
-
 `;
 }
 
