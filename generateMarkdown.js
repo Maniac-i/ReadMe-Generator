@@ -4,7 +4,10 @@ function generateMarkdown(data) {
 
 [![Generic badge](https://img.shields.io/badge/license-${data.license}-green.svg)](https://shields.io/)
 
+## Description
+- ${data.description}
 
+---
 **Table of Contents**
  - [Description](Description)
  - [Installation](Installation)
@@ -13,10 +16,6 @@ function generateMarkdown(data) {
  - [Contributing](Contributing)
  - [Tests](Tests)
  - [Questions](Questions)
-
----
-## Description
-- ${data.description}
 
 ---
 ## Installation

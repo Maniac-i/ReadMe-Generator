@@ -22,7 +22,7 @@ const questions = [
   {
     type: 'input',
     name: 'usageInfo',
-    message: 'Enter usage information.',
+    message: 'How do you use this application?',
   },
   {
     type: 'input',
@@ -48,7 +48,7 @@ const questions = [
     type: 'list',
     name: 'license',
     message: 'Choose a license.',
-    choices: ["Public-Domain", "Permissive", "LGPL", "Copyleft", "Proprietary"],
+    choices: ["MIT", "GNU_GPLv3", "Apache_2.0", "ISC"],
   },
 
 ];
