@@ -5,7 +5,7 @@ function generateMarkdown(data) {
 [![Generic badge](https://img.shields.io/badge/license-${data.license}-green.svg)](https://shields.io/)
 
 ## Description
-- ${data.description}
+${data.description}
 
 ---
 **Table of Contents**
@@ -19,23 +19,23 @@ function generateMarkdown(data) {
 
 ---
 ## Installation
-- ${data.install}
+${data.install}
 
 ---
 ## Usage
-- ${data.usageInfo}
+${data.usageInfo}
 
 ---
 ## License
-- This application is covered under the ${data.license} license.
+This application is covered under the ${data.license} license.
 
 ---
 ## Contributing
-- ${data.contribution}
+${data.contribution}
 
 ---
 ## Tests
-- ${data.test}
+${data.test}
 
 ---
 ## Questions 
