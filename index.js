@@ -65,7 +65,7 @@ function writeToFile(fileName, data) {
 function init() {
 
   inquirer.prompt(questions)
-    .then((data) => writeToFile('ReadMe.md', data))
+    .then((data) => writeToFile('README.md', data))
     .catch((err) => console.error(err));
 }
 

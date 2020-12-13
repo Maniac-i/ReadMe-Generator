@@ -1,8 +1,11 @@
-# ReadMe Generator
+# README Generator
 
-[![Generic badge](https://img.shields.io/badge/license-Permissive-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/license-MIT-green.svg)](https://shields.io/)
 
+## Description
+This application is ran in the command line. It prompts the user with questions about their project, and then uses the information to automate a README file. This allows for the user to focus more on developing their project and less on constructing a README. 
 
+---
 **Table of Contents**
  - [Description](Description)
  - [Installation](Installation)
@@ -13,28 +16,24 @@
  - [Questions](Questions)
 
 ---
-## Description
-- This project takes in the users information and automates a ReadMe with it.
-
----
 ## Installation
-- no need to install.
+To install this project, clone the repository. Use the command line to navigate into the repository. Once in the repository run 'node index.js'.
 
 ---
 ## Usage
-- idk
+Use the commandline command 'node index.js' inside the cloned repositoy.
 
 ---
 ## License
-- This application is covered under the Permissive license.
+This application is covered under the MIT license.
 
 ---
 ## Contributing
-- anyone can contribute if they want.
+You can do whaterver you want.
 
 ---
 ## Tests
-- test, what is this.
+Test it with whatever inputs you want.
 
 ---
 ## Questions 
