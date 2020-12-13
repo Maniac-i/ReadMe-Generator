@@ -7,13 +7,13 @@ This application is ran in the command line. It prompts the user with questions 
 
 ---
 **Table of Contents**
- - [Description](Description)
- - [Installation](Installation)
- - [Usage](Usage)
- - [License](License)
- - [Contributing](Contributing)
- - [Tests](Tests)
- - [Questions](Questions)
+ - [Description](#Description)
+ - [Installation](#Installation)
+ - [Usage](#Usage)
+ - [License](#License)
+ - [Contributing](#Contributing)
+ - [Tests](#Tests)
+ - [Questions](#Questions)
 
 ---
 ## Installation
