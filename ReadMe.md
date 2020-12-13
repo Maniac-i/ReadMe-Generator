@@ -1,6 +1,6 @@
 # ReadMe Generator
 
-[![Generic badge](https://img.shields.io/badge/license-Public Domain-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/license-Permissive-green.svg)](https://shields.io/)
 
 
 **Table of Contents**
@@ -11,30 +11,30 @@
  - [Contributing](Contributing)
  - [Tests](Tests)
  - [Questions](Questions)
----
 
+---
 ## Description
-This project gathers information from the user and automates a RaadMe. The ReadMe will have a Table of Contents, description, installation, usage, license, contribution, tests and questions sections.
+- This project takes in the users information and automates a ReadMe with it.
 
 ---
 ## Installation
-Clone the repository and run *node.js index.js*
+- no need to install.
 
 ---
 ## Usage
-Everyone can use.
+- idk
 
 ---
 ## License
-This application is covered under the Public Domain license.
+- This application is covered under the Permissive license.
 
 ---
 ## Contributing
-You cant contribute.
+- anyone can contribute if they want.
 
 ---
 ## Tests
-idk
+- test, what is this.
 
 ---
 ## Questions 
