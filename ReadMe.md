@@ -14,11 +14,11 @@ This application is ran in the command line. It prompts the user with questions 
 
 ---
 ## Installation
-To install this project, clone the repository. Use the command line to navigate into the repository. Once in the repository run 'npm istall'.
+To install this project, clone the repository. Use the command line to navigate into the repository. Once in the repository run `npm istall`.
 
 ---
 ## Usage
-Use the commandline command 'node index.js' inside the cloned repositoy.
+Use the commandline command `node index.js` inside the cloned repositoy.
 
 Link to video walkthrough of application : https://drive.google.com/file/d/1W1-man368rhgkzEvQtJ-of2-A0b1SI1b/view?usp=sharing
 
